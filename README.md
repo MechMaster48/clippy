@@ -4,8 +4,6 @@
 
 -This is meant to be just a learning project that was pulled from Automate the boring stuff with python to help me get more familiar with using regular expressions
 
--Hopeful to have this work on macOS/Linux/Windows
-
 #Requirements
 
 -pyperclip
