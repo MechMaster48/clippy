@@ -5,7 +5,7 @@
 -This is meant to be just a learning project that was pulled from Automate the boring stuff with python to help me get more familiar with using regular expressions
 
 # Example
-![alt text](https://imgur.com/a/fMECV79)
+![alt text](https://i.imgur.com/NVtttvz.png)
 
 # Requirements
 
