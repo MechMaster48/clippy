@@ -4,6 +4,17 @@
 
 -This is meant to be just a learning project that was pulled from Automate the boring stuff with python to help me get more familiar with using regular expressions
 
-#Requirements
+# Example
+![alt text](https://imgur.com/a/fMECV79)
+
+# Requirements
 
 -pyperclip
+
+# Usage
+
+Step 1: Copy large amount of text from somewhere
+Step 2: Trigger script
+Step 3: Script filters out all valid emails and phone numbers
+Step 4: Script sends that list to the clipboard and prints to CLI (Will make printing to CLI optional in the future)
+Step 5: Any text found will be able to be pasted
