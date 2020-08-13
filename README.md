@@ -13,8 +13,8 @@
 
 # Usage
 
-Step 1: Copy large amount of text from somewhere
-Step 2: Trigger script
-Step 3: Script filters out all valid emails and phone numbers
-Step 4: Script sends that list to the clipboard and prints to CLI (Will make printing to CLI optional in the future)
-Step 5: Any text found will be able to be pasted
+1. Copy large amount of text from somewhere
+2. Trigger script
+3. Script filters out all valid emails and phone numbers
+4. Script sends that list to the clipboard and prints to CLI (Will make printing to CLI optional in the future)
+5. Any text found will be able to be pasted
